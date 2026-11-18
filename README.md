@@ -1,30 +1,51 @@
-# Hola, soy César Navarro 👋
+<div align="center">
 
-**Estudiante de Ingeniería de Ciberseguridad | Desarrollo Web Seguro & Administración Linux**
+# Julio César Navarro García
+**Ingeniería de Ciberseguridad · Desarrollo Backend · Infraestructura Linux**
 
-Apasionado por la intersección entre el desarrollo de software moderno y la ciberseguridad defensiva. Actualmente construyo herramientas, entornos de práctica y arquitectura web bajo **BySoftoLabs**, enfocándome en el endurecimiento (hardening) de servidores, control de acceso y automatización.
+[![Portafolio](https://img.shields.io/badge/Portafolio-bysofto.com-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://bysofto.com)
+[![BypassLabs](https://img.shields.io/badge/Plataforma-bypasslabs.org-0A66C2?style=flat-square&logo=linux&logoColor=white)](https://bypasslabs.org)
+[![Contacto](https://img.shields.io/badge/Contacto-wawi.pe25%40gmail.com-24292E?style=flat-square&logo=gmail&logoColor=white)](mailto:wawi.pe25@gmail.com)
 
-[![Portafolio](https://img.shields.io/badge/Web-bysofto.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bysofto.com)
-[![BypassLabs](https://img.shields.io/badge/Wargame-BypassLabs-181717?style=for-the-badge&logo=linux&logoColor=white)](https://bypasslabs.org)
-[![Discord](https://img.shields.io/badge/Discord-wawi.pe-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+</div>
 
----
+<br>
 
-### 🚀 Proyectos Destacados
+### Perfil Profesional
 
-* 🛡️ **[BypassLabs (Genesis Wargame)](https://bypasslabs.org):** Plataforma de entrenamiento en ciberseguridad y retos SSH de 30 niveles desplegada en VPS con Docker, frontend en Astro y políticas estrictas de aislamiento.
-* 📄 **Formateador Automatizado APA 7 *(En desarrollo)*:** Aplicación web construida con Python y FastAPI para la estructuración y validación automática de documentos académicos.
-* 🔐 **Portal Centralizado de Identidad y Seguridad *(En desarrollo)*:** Sistema SSO propio orientado a unificar autenticación (JWT/Argon2), auditoría de logs y cumplimiento de privacidad entre mis plataformas.
-* 🖥️ **Homelab & Seguridad Perimetral:** Administración de servidor Ubuntu Server con contenedores Docker (WireGuard VPN, Pi-hole, Vaultwarden, Uptime Kuma) y segmentación de tráfico.
+Desarrollo de software enfocado en seguridad defensiva, arquitectura de servidores y automatización. Administro infraestructura autoalojada y entornos de entrenamiento bajo **BySoftoLabs**, aplicando endurecimiento de sistemas Linux, aislamiento mediante contenedores, políticas de control de acceso y cumplimiento técnico en protección de datos.
 
----
+<br>
 
-### 🛠️ Stack Tecnológico y Herramientas
+### Proyectos e Infraestructura
 
-[![My Skills](https://skillicons.dev/icons?i=linux,python,fastapi,astro,js,ts,postgres,docker,bash,git,cloudflare,vscode)](https://skillicons.dev)
+* **[BypassLabs](https://bypasslabs.org)** — Plataforma de entrenamiento en ciberseguridad con 30 niveles de retos sobre SSH. Desplegada en servidor VPS mediante contenedores Docker aislados y frontend en Astro.
+* **Sistema Centralizado de Identidad y Auditoría** *(En desarrollo)* — Servicio de autenticación unificada (SSO) con FastAPI y PostgreSQL. Gestión de sesiones mediante JWT, cifrado Argon2, registro de eventos de seguridad y trazabilidad de privacidad.
+* **Motor de Automatización Documental APA 7** *(En desarrollo)* — API REST construida en Python y FastAPI para el procesamiento, validación estructural y formateo automatizado de documentos académicos.
+* **Infraestructura Homelab y Seguridad de Red** — Administración de servidor Ubuntu Server con despliegue de servicios en Docker (WireGuard VPN, Pi-hole, Vaultwarden, Uptime Kuma), segmentación de tráfico y monitoreo continuo.
 
----
+<br>
 
-### 🔍 Áreas de Enfoque
-* **Seguridad Defensiva & Auditoría:** Hardening de sistemas Linux, análisis de tráfico (Wireshark, Nmap), mitigación de vulnerabilidades web y cumplimiento técnico de privacidad.
-* **Backend & Infraestructura:** Diseño de APIs REST seguras, contenedores Docker y bases de datos relacionales.
+### Tecnologías y Herramientas
+
+<div align="center">
+
+**Sistemas, Redes y Seguridad**
+
+[![Seguridad e Infraestructura](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,bash,cloudflare,nginx&theme=dark)](https://skillicons.dev)
+
+<br>
+
+**Desarrollo Backend, Frontend y Datos**
+
+[![Desarrollo y Datos](https://skillicons.dev/icons?i=python,fastapi,postgres,astro,ts,js,git,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<br>
+
+### Actividad de Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulioNavarroGarcia&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de actividad de JulioNavarroGarcia" />
+</div>
