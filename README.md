@@ -1,7 +1,7 @@
 <div align="center">
 
 # Julio César Navarro García
-**Ingeniería de Ciberseguridad · Desarrollo Backend · Infraestructura Linux**
+**Ingeniería de Ciberseguridad · Desarrollo Backend · infraestructura Linux**
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-bysofto.com-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://bysofto.com)
 [![BypassLabs](https://img.shields.io/badge/Plataforma-bypasslabs.org-0A66C2?style=flat-square&logo=linux&logoColor=white)](https://bypasslabs.org)
