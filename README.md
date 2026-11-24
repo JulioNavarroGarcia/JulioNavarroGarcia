@@ -21,7 +21,7 @@ Desarrollo de software enfocado en seguridad defensiva, arquitectura de servidor
 ### Proyectos e Infraestructura
 
 - **[BypassLabs](https://bypasslabs.org)** — Plataforma de entrenamiento en ciberseguridad con 30 niveles de retos sobre SSH. Desplegada en servidor VPS mediante contenedores Docker aislados y frontend en Astro.
-- **Sistema Centralizado de Identidad y Auditoría** *(En desarrollo)* — Servicio de autenticación unificada (SSO) con FastAPI y PostgreSQL. Gestión de sesiones mediante JWT, cifrado Argon2, registro de eventos de seguridad y trazabilidad de privacidad.
+- **Sistema Centralizado de Identidad y Auditoría** — Servicio de autenticación unificada (SSO) con FastAPI y PostgreSQL. Gestión de sesiones mediante JWT, cifrado Argon2, registro de eventos de seguridad y trazabilidad de privacidad.
 - **Motor de Automatización Documental APA 7** *(En desarrollo)* — API REST construida en Python y FastAPI para el procesamiento, validación estructural y formateo automatizado de documentos académicos.
 - **Infraestructura Homelab y Seguridad de Red** — Administración de servidor Linux con despliegue de servicios en Docker (WireGuard VPN, Tailscale, Pi-hole, Vaultwarden, Uptime Kuma), segmentación de tráfico y monitoreo continuo.
 
